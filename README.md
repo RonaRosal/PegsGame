@@ -2,8 +2,8 @@
 Returns a sequence of jumps that results in a board with a single peg. 
 
 
-#Game Description
 
+-- GAME DESCRIPTION --
 The puzzle board is a line of regularly spaced holes. The number of holes can vary. The puzzle starts with
 some of the holes occupied by pegs, and some holes empty. The player proceeds by a series of jumps. In a
 jump, a peg moves over an adjacent peg into an empty hole. The peg which was jumped over is removed.
@@ -31,4 +31,5 @@ which wins the game, then your function should return None.
 Promises:
 
 • The input string will consist of a single line of the characters X and o only.
+
 • The input string will be at least three characters long.
