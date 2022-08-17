@@ -30,4 +30,5 @@ which wins the game, then your function should return None.
 
 Promises:
 • The input string will consist of a single line of the characters X and o only.
+
 • The input string will be at least three characters long.
