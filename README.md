@@ -2,8 +2,8 @@
 Returns a sequence of jumps that results in a board with a single peg. 
 
 
-
 -- GAME DESCRIPTION --
+
 The puzzle board is a line of regularly spaced holes. The number of holes can vary. The puzzle starts with
 some of the holes occupied by pegs, and some holes empty. The player proceeds by a series of jumps. In a
 jump, a peg moves over an adjacent peg into an empty hole. The peg which was jumped over is removed.
