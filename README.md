@@ -1,5 +1,5 @@
 # PegsGame
-Returns a sequence of jumps that results in a board with a single peg. 
+Takes an inpute string of 'X' and 'o' Returns a sequence of jumps that results in a board with a single peg. 
 
 
 -- GAME DESCRIPTION --
@@ -33,3 +33,6 @@ Promises:
 • The input string will consist of a single line of the characters X and o only.
 
 • The input string will be at least three characters long.
+
+
+# What I learned
