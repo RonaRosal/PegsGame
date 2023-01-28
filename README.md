@@ -35,7 +35,5 @@ Promises:
 • The input string will be at least three characters long.
 
 
-# What I learned
 
-*
 * 
